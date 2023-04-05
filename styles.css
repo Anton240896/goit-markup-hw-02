@@ -37,17 +37,16 @@
 
 .tel {}
 
-.studio {}
-
-.webstudio {
+.studio {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-
 }
+
+.webstudio {}
 
 button {
     font-family: "Roboto", sans-serif;

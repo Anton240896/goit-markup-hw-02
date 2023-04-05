@@ -1,3 +1,7 @@
+.studio {
+
+}
+
 .webstudio {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -20,4 +24,9 @@ body {
     font-family: "Roboto", sans-serif;
     color: #434455;
 
+}
+
+.list {
+    list-style: none;
+    
 }

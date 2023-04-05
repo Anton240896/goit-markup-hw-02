@@ -1,3 +1,20 @@
+.link {
+    text-decoration: none
+}
+
+.studio {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.list {
+    list-style: none;
+}
+
 .header_studio {
     font-weight: 500;
     font-size: 16px;
@@ -24,9 +41,6 @@
     font-style: normal;
 }
 
-.list {
-    list-style: none;
-}
 
 .mail {
     font-size: 16px;
@@ -36,15 +50,6 @@
 }
 
 .tel {}
-
-.studio {
-    font-family: "Raleway", sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-}
 
 .webstudio {}
 
@@ -61,8 +66,4 @@ body {
     font-family: "Roboto", sans-serif;
     color: #434455;
 
-}
-
-.link {
-    text-decoration: none
 }

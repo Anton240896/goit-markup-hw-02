@@ -22,8 +22,20 @@
 
 .address_contacts {
     font-style: normal;
+}
+
+.list {
+    list-style: none;
+}
+
+.mail {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 
 }
+
+.tel {}
 
 .studio {}
 
@@ -54,9 +66,4 @@ body {
 
 .link {
     text-decoration: none
-}
-
-.list {
-    list-style: none;
-
 }

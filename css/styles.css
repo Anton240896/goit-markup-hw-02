@@ -91,6 +91,30 @@ button {
     letter-spacing: 0.02em;
 }
 
+.punctuality {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+
+.diligence {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+
+.technologies {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+
 .p_section2 {
     line-height: 1.5;
     letter-spacing: 0.02em;

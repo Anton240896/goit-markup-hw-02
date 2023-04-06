@@ -1,3 +1,9 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+
+}
+
 .link {
     text-decoration: none
 }
@@ -62,8 +68,39 @@ button {
     cursor: pointer;
 }
 
-body {
-    font-family: "Roboto", sans-serif;
-    color: #434455;
+.section_class1 {}
+
+.h1_section_class1 {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.btn_order_service {
+    background-color: #4D5AE5;
+}
+
+.h2_section_class2 {}
+
+.strategy {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.p_section2 {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.h2_section3 {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 
 }

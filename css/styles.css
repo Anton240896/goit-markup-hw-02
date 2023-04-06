@@ -1,11 +1,18 @@
+/*body*/
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
 
 }
 
+/*link*/
 .link {
     text-decoration: none
+}
+
+/*list*/
+.list {
+    list-style: none;
 }
 
 .studio {
@@ -17,15 +24,14 @@ body {
     text-transform: uppercase;
 }
 
-.list {
-    list-style: none;
-}
 
+/*header*/
 .header_studio {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-decoration: none;
 }
 
 .header_portfolio {
@@ -41,13 +47,15 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-decoration: none;
 }
 
+/*address*/
 .address_contacts {
     font-style: normal;
 }
 
-
+/*mail*/
 .mail {
     font-size: 16px;
     line-height: 1.5;
@@ -55,10 +63,12 @@ body {
 
 }
 
+/*tel*/
 .tel {}
 
 .webstudio {}
 
+/*button(Main page)*/
 button {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -68,9 +78,10 @@ button {
     cursor: pointer;
 }
 
+/*section 1*/
 .section_class1 {}
 
-.h1_section_class1 {
+.h1_section1_class {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -78,28 +89,15 @@ button {
     color: #ffffff;
 }
 
+/*button(Main page)*/
 .btn_order_service {
     background-color: #4D5AE5;
 }
 
-.h2_section_class2 {}
+/*section 2*/
+.h2_section2_class {}
 
-.strategy {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-
-.punctuality {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-
-
-.diligence {
+h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -107,20 +105,17 @@ button {
 }
 
 
-.technologies {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-
-
-.p_section2 {
+/*section 2*/
+p {
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.h2_section3 {
+
+
+/*section 3 */
+.h2_section3_class3 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -128,7 +123,7 @@ button {
     text-transform: capitalize;
 }
 
-.section_class4 {
+.section_class4_class4 {
     background-color: #F4F4FD;
 
 }

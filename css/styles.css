@@ -164,7 +164,9 @@ p {
 
 /*2 page*/
 /*Portfolio*/
-.studio_portfolio {}
+.studio_portfolio {
+    color: #FFFFFF;
+}
 
 
 /*h2*/

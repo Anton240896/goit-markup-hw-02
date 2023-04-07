@@ -5,6 +5,8 @@ body {
 
 }
 
+:root {}
+
 /*link*/
 .link {
     text-decoration: none
@@ -158,6 +160,8 @@ p {
 .studio_portfolio {
     color: #FFFFFF;
 }
+
+.portfolio_link {}
 
 
 

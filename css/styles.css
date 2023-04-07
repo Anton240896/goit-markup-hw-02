@@ -79,7 +79,7 @@ button {
 }
 
 /*section #1*/
-.section_class1 {}
+.section {}
 
 .h1_section1_class1 {
     font-size: 56px;
@@ -161,3 +161,136 @@ p {
 .span_web {
     color: #f4f4fd;
 }
+
+/*2 page*/
+/*Portfolio*/
+.studio_portfolio {}
+
+
+/*h2*/
+.h2_app {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.12;
+    letter-spacing: 0.02em;
+}
+
+.h2_phone {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.12;
+    letter-spacing: 0.02em;
+}
+
+
+.h2_monitor {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.12;
+    letter-spacing: 0.02em;
+}
+
+.h2_taxi {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.12;
+    letter-spacing: 0.02em;
+}
+
+
+.h2_time {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.12;
+    letter-spacing: 0.02em;
+}
+
+
+.h2_girl {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.12;
+    letter-spacing: 0.02em;
+}
+
+
+.h2_face {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.12;
+    letter-spacing: 0.02em;
+}
+}
+
+.h2_shooping {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.12;
+    letter-spacing: 0.02em;
+}
+}
+
+.h2_coffee {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.12;
+    letter-spacing: 0.02em;
+}
+
+/*p*/
+.p_app {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+
+}
+
+.p_phone {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+}
+
+.p_monitor {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+}
+
+.p_taxi {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+}
+
+.p_time {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+}
+
+.p_girl {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+}
+
+.p_face {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+}
+
+.p_shooping {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+}
+
+.p_coffee {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+}
+
+.studio {}

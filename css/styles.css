@@ -148,15 +148,6 @@ p {
 /*footer*/
 .footer {}
 
-.footer_class {
-    font-family: "Raleway", sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-}
-
 /*main page span*/
 .span_web {
     color: #f4f4fd;
@@ -168,8 +159,7 @@ p {
     color: #FFFFFF;
 }
 
-/*potfolio-link*/
-.portfolio_link {}
+
 
 /*h2*/
 .h2_app {
@@ -302,7 +292,7 @@ p {
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0, 03em;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 
 }

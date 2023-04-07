@@ -15,6 +15,7 @@ body {
     list-style: none;
 }
 
+/*studio*/
 .studio {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -23,7 +24,6 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-
 
 /*header*/
 .header_studio {
@@ -81,7 +81,7 @@ button {
 /*section 1*/
 .section_class1 {}
 
-.h1_section1_class {
+.h1_section1_class1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -95,7 +95,7 @@ button {
 }
 
 /*section 2*/
-.h2_section2_class {}
+.h2_section2_class2 {}
 
 h3 {
     font-weight: 500;

@@ -167,69 +167,7 @@ p {
 .btn {}
 
 /*h2*/
-.h2_app {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.12;
-    letter-spacing: 0.02em;
-}
-
-.h2_phone {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.12;
-    letter-spacing: 0.02em;
-}
-
-
-.h2_monitor {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.12;
-    letter-spacing: 0.02em;
-}
-
-.h2_taxi {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.12;
-    letter-spacing: 0.02em;
-}
-
-
-.h2_time {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.12;
-    letter-spacing: 0.02em;
-}
-
-
-.h2_girl {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.12;
-    letter-spacing: 0.02em;
-}
-
-
-.h2_face {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.12;
-    letter-spacing: 0.02em;
-}
-
-
-.h2_shooping {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.12;
-    letter-spacing: 0.02em;
-}
-
-
-.h2_coffee {
+.h2_portfolio {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.12;

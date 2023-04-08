@@ -29,6 +29,7 @@ body {
 
 /*header*/
 .header_studio {
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -37,6 +38,7 @@ body {
 }
 
 .header_portfolio {
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -45,6 +47,7 @@ body {
 }
 
 .header_contacts {
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -175,60 +178,13 @@ p {
 }
 
 /*p*/
-.p_app {
+.p_portfolio {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02;
 
 }
 
-.p_phone {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02;
-}
-
-.p_monitor {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02;
-}
-
-.p_taxi {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02;
-}
-
-.p_time {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02;
-}
-
-.p_girl {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02;
-}
-
-.p_face {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02;
-}
-
-.p_shooping {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02;
-}
-
-.p_coffee {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02;
-}
 
 .footer {
     font-family: 'Raleway', sans-serif;

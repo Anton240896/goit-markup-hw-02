@@ -19,7 +19,6 @@ body {
 
 /*studio*/
 .studio {
-    font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -30,7 +29,6 @@ body {
 /*header*/
 
 .header_studio {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -39,7 +37,6 @@ body {
 }
 
 .header_portfolio {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -48,7 +45,6 @@ body {
 }
 
 .header_contacts {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -83,7 +79,6 @@ body {
 
 /*button(Main page)*/
 button {
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -195,7 +190,6 @@ p {
 
 
 .footer {
-    font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;

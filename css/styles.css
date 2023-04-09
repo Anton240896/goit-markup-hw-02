@@ -121,7 +121,7 @@ body {
     background-color: #404bbf;
 }
 
-/*section #2*/
+/*section 2*/
 .h2_main_page {}
 
 /*h3_main_page*/
@@ -173,6 +173,7 @@ body {
 }
 
 /*2 page*/
+
 /*Portfolio*/
 .studio_portfolio {
     color: #FFFFFF;
@@ -180,6 +181,7 @@ body {
 
 
 /*button(portfolio)*/
+.btn,
 button {
     font-family: "Roboto", sans-serif;
     font-weight: 500;

@@ -80,8 +80,8 @@ body {
 .link .webstudio {}
 
 /*button(Main page)*/
-button {
-    font-family: "Roboto", sans-serif;
+.btn {
+
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -102,7 +102,22 @@ button {
 
 /*button(Main page)*/
 .btn_main_page {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    color: #ffffff;
     background-color: #4D5AE5;
+}
+
+
+.btn_main_page:hover {
+    background-color: #404BBF;
+}
+
+.btn_main_page:focus {
+    background-color: #404bbf;
 }
 
 /*section #2*/
@@ -170,10 +185,19 @@ p {
     color: #FFFFFF;
 }
 
+
+/*button(portfolio)*/
+.btn {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+}
+
+
 .portfolio_link {}
 
-/*btn*/
-.btn {}
 
 /*h2*/
 .h2_portfolio {

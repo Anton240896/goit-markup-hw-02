@@ -12,6 +12,8 @@ body {
     text-decoration: none
 }
 
+
+
 /*list*/
 .list {
     list-style: none;
@@ -38,20 +40,12 @@ body {
     text-decoration: none;
 }
 
-.header_portfolio {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-decoration: none;
+.header_studio:hover {
+    color: #404bbf;
 }
 
-.header_contacts {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-decoration: none;
+.header_studio:focus {
+    color: #404bbf;
 }
 
 /*address*/
@@ -65,8 +59,14 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
 
+.mail:hover {
+    color: #404bbf;
+}
 
+.mail:focus {
+    color: #404bbf;
 }
 
 /*tel*/
@@ -108,7 +108,7 @@ button {
 /*section #2*/
 .h2_section2_class2 {}
 
-h3 {
+h3.strategy {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;

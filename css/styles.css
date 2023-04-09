@@ -180,7 +180,8 @@ body {
 
 
 /*button(portfolio)*/
-.btn {
+button {
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -188,6 +189,16 @@ body {
     cursor: pointer;
 }
 
+button:hover {
+    background-color: #404BBF;
+    color: #FFFFFF;
+}
+
+
+button:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
 
 .portfolio_link {}
 

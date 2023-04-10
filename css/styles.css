@@ -43,6 +43,8 @@ address {
 }
 
 /*studio*/
+
+/*footer-studio*/
 .studio {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -79,7 +81,8 @@ address {
 }
 
 /*mail*/
-.mail {
+.address {
+    color: var(--mail-color-434455);
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -114,7 +117,9 @@ address {
 }
 
 /*section #1*/
-.section_main_page {}
+.section_main_page {
+    background-color: var(--span_studio-color-2e2f42);
+}
 
 .h1_main_page {
     font-size: 56px;
@@ -193,11 +198,20 @@ address {
 
 
 /*footer*/
-.footer {
+
+.footer_studio {
     background-color: var(--span_studio-color-2e2f42);
 }
 
-/*main page span*/
+.footer_logo_studio {
+    font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    color: var(--button-All-f4f4fdl);
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
 
 
 /*2 page*/

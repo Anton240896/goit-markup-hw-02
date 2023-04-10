@@ -44,6 +44,7 @@ body {
 /*header*/
 
 .header_studio {
+    font-family: "Raleway", sans-serif;
     font-weight: 500;
     font-size: 16px;
     color: var(--header_studio-color-4d5ae5);

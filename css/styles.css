@@ -88,22 +88,13 @@ address {
     letter-spacing: 0.02em;
 }
 
-.mail:hover {
+.address:hover {
     color: #404bbf;
 }
 
-.mail:focus {
+.address:focus {
     color: #404bbf;
 }
-
-/*tel*/
-.tel {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-
-}
-
 
 
 /*button(Main page)*/
@@ -226,7 +217,7 @@ address {
 .btn,
 button {
     font-family: "Roboto", sans-serif;
-    color: var(--header_studio-color);
+    color: var(--header_studio-color-4d5ae5);
     background-color: var(--button-All-f4f4fdl);
     font-weight: 500;
     font-size: 16px;
@@ -234,6 +225,7 @@ button {
     letter-spacing: 0.04em;
     cursor: pointer;
 }
+
 
 button:hover {
     background-color: #404BBF;
@@ -245,8 +237,6 @@ button:focus {
     color: #FFFFFF;
     background-color: #404BBF;
 }
-
-.portfolio_link {}
 
 
 /*h2*/

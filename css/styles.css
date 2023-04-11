@@ -112,7 +112,7 @@ address {
     background-color: var(--span_studio-color-2e2f42);
 }
 
-.h1_main_page {
+.hero-title {
     font-size: 56px;
     color: var(--span_studio-color-2e2f42);
     line-height: 1.07;
@@ -166,7 +166,7 @@ address {
 
 /*h2 What are doing;
  Our team*/
-.hero-title {
+.h2_main_page {
     font-size: 36px;
     color: var(--span_studio-color-2e2f42);
     line-height: 1.11;

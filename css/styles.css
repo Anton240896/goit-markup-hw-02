@@ -166,8 +166,11 @@ address {
     text-transform: capitalize;
 }
 
-.team_maim_page {
+.dream_team_main_page {
     background-color: #FFFFFF;
+}
+
+.team_maim_page {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;

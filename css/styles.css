@@ -218,18 +218,6 @@ address {
 
 
 
-button {
-    font-family: "Roboto", sans-serif;
-    color: var(--header_studio-color-4d5ae5);
-    background-color: var(--button-All-f4f4fdl);
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    cursor: pointer;
-}
-
-
 button:hover {
     background-color: #404BBF;
     color: #FFFFFF;

@@ -166,6 +166,14 @@ address {
     text-transform: capitalize;
 }
 
+.team_maim_page {
+    background-color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--span_studio-color-2e2f42);
+}
 
 /*section #4*/
 .section_main_page {

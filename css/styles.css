@@ -10,7 +10,7 @@
 /*body*/
 body {
     font-family: "Roboto", sans-serif;
-    color: #434455;
+    color: var(--mail-color-434455);
     background-color: var(--background-color-main_page-ffffff);
 
 }
@@ -28,6 +28,7 @@ body {
     list-style: none;
 }
 
+/*address*/
 address {
     font-style: normal;
 }
@@ -147,7 +148,7 @@ address {
 
 
 /*p_section #2*/
-.p_main_page {
+.text-main_page {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -166,7 +167,7 @@ address {
     text-transform: capitalize;
 }
 
-.dream_team_main_page {
+.dreamteam_main_page {
     background-color: #FFFFFF;
 }
 
@@ -269,4 +270,11 @@ button:focus {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+}
+
+.footer-paragraph {
+    font-size: 16px;
+    color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }

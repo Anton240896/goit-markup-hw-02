@@ -242,7 +242,7 @@ button:focus {
 
 
 /*h2*/
-.h2_portfolio {
+.h_portfolio {
     font-weight: 500;
     color: var(--span_studio-color-2e2f42);
     font-size: 20px;

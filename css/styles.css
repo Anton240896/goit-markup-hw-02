@@ -154,6 +154,11 @@ address {
     letter-spacing: 0.02em;
 }
 
+/*team*/
+.section_team {
+    background-color: #F4F4FD;
+}
+
 
 
 /*h2 What are doing;
@@ -173,9 +178,10 @@ address {
 
 
 /*section #4*/
-.section_main_page {
-    background-color: #F4F4FD;
+.section_main_page {}
 
+.section_team {
+    background-color: #F4F4FD;
 }
 
 
